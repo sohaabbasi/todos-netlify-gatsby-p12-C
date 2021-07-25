@@ -1,0 +1,24 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphql_todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netlify",
+    "serverless",
+    "js",
+    "apollo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/icons": "^4.9.1",
+    "apollo-server-lambda": "^2.19.0",
+    "faunadb": "^3.0.1",
+    "graphql": "^15.4.0",
+    "graphql-type-long": "^0.1.1"
+  }
+}
